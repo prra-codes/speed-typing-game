@@ -50,7 +50,7 @@ function App() {
     const wordCount = filteredWords.length;
 
     console.log(wordCount);
-    return wordCount; //return the actual word count
+    return wordCount; //returns the actual word count
   }
   return (
     <div className="App">
