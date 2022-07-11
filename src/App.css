@@ -2,6 +2,7 @@
 
 html,
 body {
+  margin: 0 auto;
   background: black;
   color: #00b800;
   margin: 0;
@@ -42,9 +43,10 @@ textarea {
   width: 90%;
   margin: 0 auto;
   outline: none;
-  height: 200px;
+  height: 300px;
   background: #00b800;
   padding: 10px;
+  width: 50%;
 }
 
 textarea:disabled {
